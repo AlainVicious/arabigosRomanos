@@ -1,6 +1,4 @@
 from numeros.Convert import numerosConvert
-from numeros.Persona import Persona
-
 
 convert = numerosConvert()
 

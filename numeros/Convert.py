@@ -1,6 +1,4 @@
-""" 
-modulo mamalon
- """
+""" Modulo de numeros arabigos y romanos """
 
 __docformat__ = "restructuredtext"  
 class numerosConvert:
